@@ -1,6 +1,6 @@
 # File Upload
 
-A simple project where I learned how to upload files, make checks before uploading them, and using Cloudinary to store files on the cloud
+A simple project where I learned how to upload files locally and on the cloud using Cloudinary. And how to make checks on size, format before uploading them
 
 #### Project Setup
 
